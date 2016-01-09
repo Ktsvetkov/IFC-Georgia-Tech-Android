@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Kamenator/Work/publicGitHub/IFC Georgia Tech Android/IFCGeorgiaTechAndroid/IFCGeorgiaTech2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Kamenator/Work/publicGitHub/IFC Georgia Tech Android/IFCGeorgiaTechAndroid/IFCGeorgiaTech2/app/build/intermediates/pre-dexed/debug/classes-f3cef90d0f90c6c13b527460812e787e860bccfd.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Work/publicGitHub/IFC Georgia Tech Android/IFCGeorgiaTechAndroid/IFCGeorgiaTech2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Kamenator/Work/publicGitHub/IFC Georgia Tech Android/IFCGeorgiaTechAndroid/IFCGeorgiaTech2/app/build/intermediates/pre-dexed/debug/classes-07a3ccf72d37c38e0d84934990129c20025e9a5c.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Work/publicGitHub/IFC Georgia Tech Android/IFCGeorgiaTechAndroid/IFCGeorgiaTech2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Kamenator/Work/publicGitHub/IFC Georgia Tech Android/IFCGeorgiaTechAndroid/IFCGeorgiaTech2/app/build/intermediates/pre-dexed/debug/classes-1073f25c09c8f5c3532063ef319e3508c3b7e919.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Work/publicGitHub/IFC Georgia Tech Android/IFCGeorgiaTechAndroid/IFCGeorgiaTech2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Kamenator/Work/publicGitHub/IFC Georgia Tech Android/IFCGeorgiaTechAndroid/IFCGeorgiaTech2/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-2135d33c386c8f7afecedd298b18cac8ebced71c.jar" />
+    </item>
+    <item
+        jar="/Applications/eclipse/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Kamenator/Work/publicGitHub/IFC Georgia Tech Android/IFCGeorgiaTechAndroid/IFCGeorgiaTech2/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-19d96b34ccea328df03316a191c9e85ad6332462.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Kamenator/Work/publicGitHub/IFC Georgia Tech Android/IFCGeorgiaTechAndroid/IFCGeorgiaTech2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-900700b12afff0b3dc43844e4502354e52444bfb.jar" />
+    </item>
+
+</items>
